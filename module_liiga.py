@@ -15,8 +15,8 @@ def giev_liiga():
         gameDate = event.get('dtstart').dt.date()
         dateToday = datetime.now().date()
  
-    if gameDate == dateToday:
-        gamesToday.append(game)
+        if gameDate == dateToday:
+            gamesToday.append(game)
 
     g.close()
 
