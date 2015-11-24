@@ -1,0 +1,3874 @@
+BEGIN:VCALENDAR
+DTSTART;VALUE=DATE:20150624
+SUMMARY:Ottelut 2015-09-11 - 2016-03-10
+BEGIN:VEVENT
+SUMMARY:Sport - JYP
+DTSTART;VALUE=DATE-TIME:20150911T153000Z
+UID:Liiga-Runkosarja-2015-game-7617@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7617
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 17/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - Kärpät
+DTSTART;VALUE=DATE-TIME:20150911T153000Z
+UID:Liiga-Runkosarja-2015-game-7614@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7614
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 14/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - Pelicans
+DTSTART;VALUE=DATE-TIME:20150911T153000Z
+UID:Liiga-Runkosarja-2015-game-7613@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7613
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 13/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - Ilves
+DTSTART;VALUE=DATE-TIME:20150911T153000Z
+UID:Liiga-Runkosarja-2015-game-7618@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7618
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 18/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - KooKoo
+DTSTART;VALUE=DATE-TIME:20150911T153000Z
+UID:Liiga-Runkosarja-2015-game-7616@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7616
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 16/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - Ässät
+DTSTART;VALUE=DATE-TIME:20150911T153000Z
+UID:Liiga-Runkosarja-2015-game-7615@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7615
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 15/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - HIFK
+DTSTART;VALUE=DATE-TIME:20150911T153000Z
+UID:Liiga-Runkosarja-2015-game-7612@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7612
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 12/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - Lukko
+DTSTART;VALUE=DATE-TIME:20150912T140000Z
+UID:Liiga-Runkosarja-2015-game-7619@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7619
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 19/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - SaiPa
+DTSTART;VALUE=DATE-TIME:20150912T140000Z
+UID:Liiga-Runkosarja-2015-game-7622@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7622
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 22/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - HPK
+DTSTART;VALUE=DATE-TIME:20150912T140000Z
+UID:Liiga-Runkosarja-2015-game-7625@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7625
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 25/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - Sport
+DTSTART;VALUE=DATE-TIME:20150912T140000Z
+UID:Liiga-Runkosarja-2015-game-7620@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7620
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 20/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - Ässät
+DTSTART;VALUE=DATE-TIME:20150912T140000Z
+UID:Liiga-Runkosarja-2015-game-7621@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7621
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 21/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - Blues
+DTSTART;VALUE=DATE-TIME:20150912T140000Z
+UID:Liiga-Runkosarja-2015-game-7624@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7624
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 24/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - KalPa
+DTSTART;VALUE=DATE-TIME:20150912T140000Z
+UID:Liiga-Runkosarja-2015-game-7623@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7623
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 23/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - TPS
+DTSTART;VALUE=DATE-TIME:20150915T153000Z
+UID:Liiga-Runkosarja-2015-game-7629@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7629
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 29/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - Tappara
+DTSTART;VALUE=DATE-TIME:20150915T153000Z
+UID:Liiga-Runkosarja-2015-game-7628@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7628
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 28/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - Lukko
+DTSTART;VALUE=DATE-TIME:20150915T153000Z
+UID:Liiga-Runkosarja-2015-game-7626@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7626
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 26/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - Ässät
+DTSTART;VALUE=DATE-TIME:20150915T153000Z
+UID:Liiga-Runkosarja-2015-game-7627@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7627
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 27/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - HPK
+DTSTART;VALUE=DATE-TIME:20150916T153000Z
+UID:Liiga-Runkosarja-2015-game-7630@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7630
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 30/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - Pelicans
+DTSTART;VALUE=DATE-TIME:20150916T153000Z
+UID:Liiga-Runkosarja-2015-game-7632@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7632
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 32/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - HIFK
+DTSTART;VALUE=DATE-TIME:20150916T153000Z
+UID:Liiga-Runkosarja-2015-game-7631@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7631
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 31/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - Lukko
+DTSTART;VALUE=DATE-TIME:20150916T153000Z
+UID:Liiga-Runkosarja-2015-game-7633@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7633
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 33/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - Pelicans
+DTSTART;VALUE=DATE-TIME:20150917T153000Z
+UID:Liiga-Runkosarja-2015-game-7635@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7635
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 35/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - SaiPa
+DTSTART;VALUE=DATE-TIME:20150917T153000Z
+UID:Liiga-Runkosarja-2015-game-7634@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7634
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 34/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - KalPa
+DTSTART;VALUE=DATE-TIME:20150918T153000Z
+UID:Liiga-Runkosarja-2015-game-7636@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7636
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 36/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - TPS
+DTSTART;VALUE=DATE-TIME:20150918T153000Z
+UID:Liiga-Runkosarja-2015-game-7638@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7638
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 38/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - Ässät
+DTSTART;VALUE=DATE-TIME:20150918T153000Z
+UID:Liiga-Runkosarja-2015-game-7637@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7637
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 37/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - JYP
+DTSTART;VALUE=DATE-TIME:20150919T140000Z
+UID:Liiga-Runkosarja-2015-game-7643@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7643
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 43/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - Ässät
+DTSTART;VALUE=DATE-TIME:20150919T140000Z
+UID:Liiga-Runkosarja-2015-game-7644@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7644
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 44/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - Ilves
+DTSTART;VALUE=DATE-TIME:20150919T140000Z
+UID:Liiga-Runkosarja-2015-game-7641@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7641
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 41/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - Sport
+DTSTART;VALUE=DATE-TIME:20150919T140000Z
+UID:Liiga-Runkosarja-2015-game-7642@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7642
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 42/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - Tappara
+DTSTART;VALUE=DATE-TIME:20150919T140000Z
+UID:Liiga-Runkosarja-2015-game-7639@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7639
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 39/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - KooKoo
+DTSTART;VALUE=DATE-TIME:20150919T140000Z
+UID:Liiga-Runkosarja-2015-game-7645@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7645
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 45/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - KalPa
+DTSTART;VALUE=DATE-TIME:20150919T140000Z
+UID:Liiga-Runkosarja-2015-game-7640@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7640
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 40/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - HPK
+DTSTART;VALUE=DATE-TIME:20150923T153000Z
+UID:Liiga-Runkosarja-2015-game-7646@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7646
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 46/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - TPS
+DTSTART;VALUE=DATE-TIME:20150924T153000Z
+UID:Liiga-Runkosarja-2015-game-7648@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7648
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 48/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - Sport
+DTSTART;VALUE=DATE-TIME:20150924T153000Z
+UID:Liiga-Runkosarja-2015-game-7649@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7649
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 49/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - Tappara
+DTSTART;VALUE=DATE-TIME:20150924T153000Z
+UID:Liiga-Runkosarja-2015-game-7650@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7650
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 50/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - Ässät
+DTSTART;VALUE=DATE-TIME:20150924T153000Z
+UID:Liiga-Runkosarja-2015-game-7647@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7647
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 47/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - TPS
+DTSTART;VALUE=DATE-TIME:20150925T153000Z
+UID:Liiga-Runkosarja-2015-game-7654@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7654
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 54/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - Pelicans
+DTSTART;VALUE=DATE-TIME:20150925T153000Z
+UID:Liiga-Runkosarja-2015-game-7652@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7652
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 52/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - Kärpät
+DTSTART;VALUE=DATE-TIME:20150925T153000Z
+UID:Liiga-Runkosarja-2015-game-7653@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7653
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 53/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - HPK
+DTSTART;VALUE=DATE-TIME:20150925T153000Z
+UID:Liiga-Runkosarja-2015-game-7651@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7651
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 51/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - HPK
+DTSTART;VALUE=DATE-TIME:20150926T140000Z
+UID:Liiga-Runkosarja-2015-game-7655@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7655
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 55/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - Lukko
+DTSTART;VALUE=DATE-TIME:20150926T140000Z
+UID:Liiga-Runkosarja-2015-game-7659@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7659
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 59/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - Blues
+DTSTART;VALUE=DATE-TIME:20150926T140000Z
+UID:Liiga-Runkosarja-2015-game-7660@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7660
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 60/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - Kärpät
+DTSTART;VALUE=DATE-TIME:20150926T140000Z
+UID:Liiga-Runkosarja-2015-game-7658@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7658
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 58/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - Ässät
+DTSTART;VALUE=DATE-TIME:20150926T140000Z
+UID:Liiga-Runkosarja-2015-game-7657@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7657
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 57/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - JYP
+DTSTART;VALUE=DATE-TIME:20150926T140000Z
+UID:Liiga-Runkosarja-2015-game-7656@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7656
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 56/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - Ässät
+DTSTART;VALUE=DATE-TIME:20150929T153000Z
+UID:Liiga-Runkosarja-2015-game-7662@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7662
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 62/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - KalPa
+DTSTART;VALUE=DATE-TIME:20150929T153000Z
+UID:Liiga-Runkosarja-2015-game-7664@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7664
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 64/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - JYP
+DTSTART;VALUE=DATE-TIME:20150929T153000Z
+UID:Liiga-Runkosarja-2015-game-7661@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7661
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 61/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - Pelicans
+DTSTART;VALUE=DATE-TIME:20150929T153000Z
+UID:Liiga-Runkosarja-2015-game-7663@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7663
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 63/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - Blues
+DTSTART;VALUE=DATE-TIME:20150930T153000Z
+UID:Liiga-Runkosarja-2015-game-7665@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7665
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 65/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - Tappara
+DTSTART;VALUE=DATE-TIME:20150930T153000Z
+UID:Liiga-Runkosarja-2015-game-7667@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7667
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 67/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - SaiPa
+DTSTART;VALUE=DATE-TIME:20150930T153000Z
+UID:Liiga-Runkosarja-2015-game-7666@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7666
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 66/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - SaiPa
+DTSTART;VALUE=DATE-TIME:20151001T153000Z
+UID:Liiga-Runkosarja-2015-game-7670@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7670
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 70/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - Ässät
+DTSTART;VALUE=DATE-TIME:20151001T153000Z
+UID:Liiga-Runkosarja-2015-game-7668@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7668
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 68/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - Ilves
+DTSTART;VALUE=DATE-TIME:20151001T153000Z
+UID:Liiga-Runkosarja-2015-game-7669@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7669
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 69/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - Lukko
+DTSTART;VALUE=DATE-TIME:20151002T153000Z
+UID:Liiga-Runkosarja-2015-game-7671@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7671
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 71/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - HPK
+DTSTART;VALUE=DATE-TIME:20151002T153000Z
+UID:Liiga-Runkosarja-2015-game-7673@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7673
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 73/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - KooKoo
+DTSTART;VALUE=DATE-TIME:20151002T153000Z
+UID:Liiga-Runkosarja-2015-game-7672@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7672
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 72/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - Sport
+DTSTART;VALUE=DATE-TIME:20151003T140000Z
+UID:Liiga-Runkosarja-2015-game-7675@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7675
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 75/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - TPS
+DTSTART;VALUE=DATE-TIME:20151003T140000Z
+UID:Liiga-Runkosarja-2015-game-7674@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7674
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 74/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - JYP
+DTSTART;VALUE=DATE-TIME:20151003T140000Z
+UID:Liiga-Runkosarja-2015-game-7679@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7679
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 79/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - HIFK
+DTSTART;VALUE=DATE-TIME:20151003T140000Z
+UID:Liiga-Runkosarja-2015-game-7678@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7678
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 78/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - Lukko
+DTSTART;VALUE=DATE-TIME:20151003T140000Z
+UID:Liiga-Runkosarja-2015-game-7676@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7676
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 76/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - Pelicans
+DTSTART;VALUE=DATE-TIME:20151003T140000Z
+UID:Liiga-Runkosarja-2015-game-7677@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7677
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 77/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - Kärpät
+DTSTART;VALUE=DATE-TIME:20151008T153000Z
+UID:Liiga-Runkosarja-2015-game-7682@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7682
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 82/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - JYP
+DTSTART;VALUE=DATE-TIME:20151008T153000Z
+UID:Liiga-Runkosarja-2015-game-7681@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7681
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 81/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - Ässät
+DTSTART;VALUE=DATE-TIME:20151009T153000Z
+UID:Liiga-Runkosarja-2015-game-7685@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7685
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 85/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - Lukko
+DTSTART;VALUE=DATE-TIME:20151009T153000Z
+UID:Liiga-Runkosarja-2015-game-7683@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7683
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 83/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - KooKoo
+DTSTART;VALUE=DATE-TIME:20151009T153000Z
+UID:Liiga-Runkosarja-2015-game-7686@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7686
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 86/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - KalPa
+DTSTART;VALUE=DATE-TIME:20151009T153000Z
+UID:Liiga-Runkosarja-2015-game-7684@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7684
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 84/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - JYP
+DTSTART;VALUE=DATE-TIME:20151009T153000Z
+UID:Liiga-Runkosarja-2015-game-7687@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7687
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 87/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - Blues
+DTSTART;VALUE=DATE-TIME:20151010T140000Z
+UID:Liiga-Runkosarja-2015-game-7691@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7691
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 91/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - TPS
+DTSTART;VALUE=DATE-TIME:20151010T140000Z
+UID:Liiga-Runkosarja-2015-game-7692@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7692
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 92/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - KooKoo
+DTSTART;VALUE=DATE-TIME:20151010T140000Z
+UID:Liiga-Runkosarja-2015-game-7690@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7690
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 90/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - Pelicans
+DTSTART;VALUE=DATE-TIME:20151010T140000Z
+UID:Liiga-Runkosarja-2015-game-7689@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7689
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 89/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - HIFK
+DTSTART;VALUE=DATE-TIME:20151010T140000Z
+UID:Liiga-Runkosarja-2015-game-7688@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7688
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 88/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - HPK
+DTSTART;VALUE=DATE-TIME:20151010T140000Z
+UID:Liiga-Runkosarja-2015-game-7693@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7693
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 93/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - Tappara
+DTSTART;VALUE=DATE-TIME:20151011T120000Z
+UID:Liiga-Runkosarja-2015-game-7694@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7694
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 94/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - Kärpät
+DTSTART;VALUE=DATE-TIME:20151013T153000Z
+UID:Liiga-Runkosarja-2015-game-7695@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7695
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 95/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - Ässät
+DTSTART;VALUE=DATE-TIME:20151013T153000Z
+UID:Liiga-Runkosarja-2015-game-7697@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7697
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 97/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - Ilves
+DTSTART;VALUE=DATE-TIME:20151013T153000Z
+UID:Liiga-Runkosarja-2015-game-7696@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7696
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 96/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - Sport
+DTSTART;VALUE=DATE-TIME:20151013T153000Z
+UID:Liiga-Runkosarja-2015-game-7698@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7698
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 98/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - SaiPa
+DTSTART;VALUE=DATE-TIME:20151014T153000Z
+UID:Liiga-Runkosarja-2015-game-7702@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7702
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 02/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - KooKoo
+DTSTART;VALUE=DATE-TIME:20151014T153000Z
+UID:Liiga-Runkosarja-2015-game-7699@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7699
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 99/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - Kärpät
+DTSTART;VALUE=DATE-TIME:20151014T153000Z
+UID:Liiga-Runkosarja-2015-game-7701@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7701
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 01/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - Blues
+DTSTART;VALUE=DATE-TIME:20151014T153000Z
+UID:Liiga-Runkosarja-2015-game-7700@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7700
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 00/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - KalPa
+DTSTART;VALUE=DATE-TIME:20151015T153000Z
+UID:Liiga-Runkosarja-2015-game-7704@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7704
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 04/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - Ilves
+DTSTART;VALUE=DATE-TIME:20151015T153000Z
+UID:Liiga-Runkosarja-2015-game-7703@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7703
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 03/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - HPK
+DTSTART;VALUE=DATE-TIME:20151016T153000Z
+UID:Liiga-Runkosarja-2015-game-7705@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7705
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 05/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - KooKoo
+DTSTART;VALUE=DATE-TIME:20151016T153000Z
+UID:Liiga-Runkosarja-2015-game-7707@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7707
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 07/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - HIFK
+DTSTART;VALUE=DATE-TIME:20151016T153000Z
+UID:Liiga-Runkosarja-2015-game-7708@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7708
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 08/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - Lukko
+DTSTART;VALUE=DATE-TIME:20151016T153000Z
+UID:Liiga-Runkosarja-2015-game-7706@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7706
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 06/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - SaiPa
+DTSTART;VALUE=DATE-TIME:20151016T153000Z
+UID:Liiga-Runkosarja-2015-game-7709@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7709
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 09/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - HIFK
+DTSTART;VALUE=DATE-TIME:20151017T140000Z
+UID:Liiga-Runkosarja-2015-game-7713@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7713
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 13/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - SaiPa
+DTSTART;VALUE=DATE-TIME:20151017T140000Z
+UID:Liiga-Runkosarja-2015-game-7710@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7710
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 10/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - JYP
+DTSTART;VALUE=DATE-TIME:20151017T140000Z
+UID:Liiga-Runkosarja-2015-game-7712@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7712
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 12/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - Blues
+DTSTART;VALUE=DATE-TIME:20151017T140000Z
+UID:Liiga-Runkosarja-2015-game-7711@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7711
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 11/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - Kärpät
+DTSTART;VALUE=DATE-TIME:20151018T120000Z
+UID:Liiga-Runkosarja-2015-game-7716@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7716
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 16/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - KalPa
+DTSTART;VALUE=DATE-TIME:20151018T120000Z
+UID:Liiga-Runkosarja-2015-game-7714@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7714
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 14/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - TPS
+DTSTART;VALUE=DATE-TIME:20151018T120000Z
+UID:Liiga-Runkosarja-2015-game-7717@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7717
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 17/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - JYP
+DTSTART;VALUE=DATE-TIME:20151018T120000Z
+UID:Liiga-Runkosarja-2015-game-7715@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7715
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 15/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - Kärpät
+DTSTART;VALUE=DATE-TIME:20151020T153000Z
+UID:Liiga-Runkosarja-2015-game-7718@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7718
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 18/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - Tappara
+DTSTART;VALUE=DATE-TIME:20151020T153000Z
+UID:Liiga-Runkosarja-2015-game-7680@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7680
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/76
+ 80/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - Ilves
+DTSTART;VALUE=DATE-TIME:20151020T153000Z
+UID:Liiga-Runkosarja-2015-game-7719@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7719
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 19/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - HIFK
+DTSTART;VALUE=DATE-TIME:20151021T153000Z
+UID:Liiga-Runkosarja-2015-game-7721@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7721
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 21/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - Sport
+DTSTART;VALUE=DATE-TIME:20151021T153000Z
+UID:Liiga-Runkosarja-2015-game-7722@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7722
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 22/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - Pelicans
+DTSTART;VALUE=DATE-TIME:20151021T153000Z
+UID:Liiga-Runkosarja-2015-game-7720@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7720
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 20/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - Sport
+DTSTART;VALUE=DATE-TIME:20151022T153000Z
+UID:Liiga-Runkosarja-2015-game-7725@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7725
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 25/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - TPS
+DTSTART;VALUE=DATE-TIME:20151022T153000Z
+UID:Liiga-Runkosarja-2015-game-7724@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7724
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 24/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - KalPa
+DTSTART;VALUE=DATE-TIME:20151022T153000Z
+UID:Liiga-Runkosarja-2015-game-7723@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7723
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 23/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - HPK
+DTSTART;VALUE=DATE-TIME:20151023T154500Z
+UID:Liiga-Runkosarja-2015-game-7728@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7728
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 28/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - Ilves
+DTSTART;VALUE=DATE-TIME:20151023T153000Z
+UID:Liiga-Runkosarja-2015-game-7726@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7726
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 26/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - HIFK
+DTSTART;VALUE=DATE-TIME:20151023T153000Z
+UID:Liiga-Runkosarja-2015-game-7727@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7727
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 27/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - Ilves
+DTSTART;VALUE=DATE-TIME:20151024T140000Z
+UID:Liiga-Runkosarja-2015-game-7730@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7730
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 30/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - Tappara
+DTSTART;VALUE=DATE-TIME:20151024T140000Z
+UID:Liiga-Runkosarja-2015-game-7733@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7733
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 33/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - Pelicans
+DTSTART;VALUE=DATE-TIME:20151024T140000Z
+UID:Liiga-Runkosarja-2015-game-7734@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7734
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 34/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - Lukko
+DTSTART;VALUE=DATE-TIME:20151024T140000Z
+UID:Liiga-Runkosarja-2015-game-7731@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7731
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 31/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - HPK
+DTSTART;VALUE=DATE-TIME:20151024T140000Z
+UID:Liiga-Runkosarja-2015-game-7732@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7732
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 32/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - HIFK
+DTSTART;VALUE=DATE-TIME:20151024T153000Z
+UID:Liiga-Runkosarja-2015-game-7729@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7729
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 29/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - Ässät
+DTSTART;VALUE=DATE-TIME:20151027T163000Z
+UID:Liiga-Runkosarja-2015-game-7735@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7735
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 35/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - Tappara
+DTSTART;VALUE=DATE-TIME:20151027T163000Z
+UID:Liiga-Runkosarja-2015-game-7737@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7737
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 37/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - TPS
+DTSTART;VALUE=DATE-TIME:20151027T163000Z
+UID:Liiga-Runkosarja-2015-game-7736@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7736
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 36/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - KooKoo
+DTSTART;VALUE=DATE-TIME:20151028T163000Z
+UID:Liiga-Runkosarja-2015-game-7738@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7738
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 38/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - KalPa
+DTSTART;VALUE=DATE-TIME:20151028T163000Z
+UID:Liiga-Runkosarja-2015-game-7741@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7741
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 41/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - JYP
+DTSTART;VALUE=DATE-TIME:20151028T163000Z
+UID:Liiga-Runkosarja-2015-game-7742@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7742
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 42/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - TPS
+DTSTART;VALUE=DATE-TIME:20151028T163000Z
+UID:Liiga-Runkosarja-2015-game-7739@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7739
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 39/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - Blues
+DTSTART;VALUE=DATE-TIME:20151028T163000Z
+UID:Liiga-Runkosarja-2015-game-7740@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7740
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 40/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - Kärpät
+DTSTART;VALUE=DATE-TIME:20151029T163000Z
+UID:Liiga-Runkosarja-2015-game-7744@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7744
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 44/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - Blues
+DTSTART;VALUE=DATE-TIME:20151029T163000Z
+UID:Liiga-Runkosarja-2015-game-7743@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7743
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 43/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - SaiPa
+DTSTART;VALUE=DATE-TIME:20151030T163000Z
+UID:Liiga-Runkosarja-2015-game-7747@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7747
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 47/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - Sport
+DTSTART;VALUE=DATE-TIME:20151030T163000Z
+UID:Liiga-Runkosarja-2015-game-7745@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7745
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 45/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - HPK
+DTSTART;VALUE=DATE-TIME:20151030T163000Z
+UID:Liiga-Runkosarja-2015-game-7746@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7746
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 46/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - HIFK
+DTSTART;VALUE=DATE-TIME:20151031T150000Z
+UID:Liiga-Runkosarja-2015-game-7748@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7748
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 48/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - Sport
+DTSTART;VALUE=DATE-TIME:20151031T150000Z
+UID:Liiga-Runkosarja-2015-game-7752@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7752
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 52/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - KooKoo
+DTSTART;VALUE=DATE-TIME:20151031T150000Z
+UID:Liiga-Runkosarja-2015-game-7749@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7749
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 49/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - Lukko
+DTSTART;VALUE=DATE-TIME:20151031T163000Z
+UID:Liiga-Runkosarja-2015-game-7754@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7754
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 54/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - Blues
+DTSTART;VALUE=DATE-TIME:20151031T150000Z
+UID:Liiga-Runkosarja-2015-game-7753@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7753
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 53/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - Tappara
+DTSTART;VALUE=DATE-TIME:20151031T150000Z
+UID:Liiga-Runkosarja-2015-game-7751@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7751
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 51/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - JYP
+DTSTART;VALUE=DATE-TIME:20151031T150000Z
+UID:Liiga-Runkosarja-2015-game-7750@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7750
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 50/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - Pelicans
+DTSTART;VALUE=DATE-TIME:20151101T140000Z
+UID:Liiga-Runkosarja-2015-game-7755@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7755
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 55/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - Pelicans
+DTSTART;VALUE=DATE-TIME:20151110T163000Z
+UID:Liiga-Runkosarja-2015-game-7756@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7756
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 56/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - KalPa
+DTSTART;VALUE=DATE-TIME:20151111T163000Z
+UID:Liiga-Runkosarja-2015-game-7760@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7760
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 60/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - JYP
+DTSTART;VALUE=DATE-TIME:20151111T163000Z
+UID:Liiga-Runkosarja-2015-game-7759@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7759
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 59/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - HIFK
+DTSTART;VALUE=DATE-TIME:20151112T163000Z
+UID:Liiga-Runkosarja-2015-game-7763@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7763
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 63/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - TPS
+DTSTART;VALUE=DATE-TIME:20151112T163000Z
+UID:Liiga-Runkosarja-2015-game-7761@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7761
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 61/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - Ilves
+DTSTART;VALUE=DATE-TIME:20151112T163000Z
+UID:Liiga-Runkosarja-2015-game-7762@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7762
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 62/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - Lukko
+DTSTART;VALUE=DATE-TIME:20151113T163000Z
+UID:Liiga-Runkosarja-2015-game-7768@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7768
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 68/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - KooKoo
+DTSTART;VALUE=DATE-TIME:20151113T163000Z
+UID:Liiga-Runkosarja-2015-game-7764@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7764
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 64/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - Blues
+DTSTART;VALUE=DATE-TIME:20151113T163000Z
+UID:Liiga-Runkosarja-2015-game-7766@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7766
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 66/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - Tappara
+DTSTART;VALUE=DATE-TIME:20151113T163000Z
+UID:Liiga-Runkosarja-2015-game-7765@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7765
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 65/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - KalPa
+DTSTART;VALUE=DATE-TIME:20151113T163000Z
+UID:Liiga-Runkosarja-2015-game-7767@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7767
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 67/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - JYP
+DTSTART;VALUE=DATE-TIME:20151114T150000Z
+UID:Liiga-Runkosarja-2015-game-7773@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7773
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 73/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - Kärpät
+DTSTART;VALUE=DATE-TIME:20151114T150000Z
+UID:Liiga-Runkosarja-2015-game-7769@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7769
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 69/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - Blues
+DTSTART;VALUE=DATE-TIME:20151114T150000Z
+UID:Liiga-Runkosarja-2015-game-7770@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7770
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 70/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - Ässät
+DTSTART;VALUE=DATE-TIME:20151114T150000Z
+UID:Liiga-Runkosarja-2015-game-7772@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7772
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 72/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - Lukko
+DTSTART;VALUE=DATE-TIME:20151114T150000Z
+UID:Liiga-Runkosarja-2015-game-7771@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7771
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 71/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - SaiPa
+DTSTART;VALUE=DATE-TIME:20151116T163000Z
+UID:Liiga-Runkosarja-2015-game-7774@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7774
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 74/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - TPS
+DTSTART;VALUE=DATE-TIME:20151117T163000Z
+UID:Liiga-Runkosarja-2015-game-7778@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7778
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 78/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - KalPa
+DTSTART;VALUE=DATE-TIME:20151117T163000Z
+UID:Liiga-Runkosarja-2015-game-7779@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7779
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 79/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - Sport
+DTSTART;VALUE=DATE-TIME:20151117T163000Z
+UID:Liiga-Runkosarja-2015-game-7775@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7775
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 75/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - SaiPa
+DTSTART;VALUE=DATE-TIME:20151117T163000Z
+UID:Liiga-Runkosarja-2015-game-7776@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7776
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 76/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - Tappara
+DTSTART;VALUE=DATE-TIME:20151117T163000Z
+UID:Liiga-Runkosarja-2015-game-7777@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7777
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 77/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - KooKoo
+DTSTART;VALUE=DATE-TIME:20151118T163000Z
+UID:Liiga-Runkosarja-2015-game-7781@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7781
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 81/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - Sport
+DTSTART;VALUE=DATE-TIME:20151118T163000Z
+UID:Liiga-Runkosarja-2015-game-7780@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7780
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 80/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - Ässät
+DTSTART;VALUE=DATE-TIME:20151118T163000Z
+UID:Liiga-Runkosarja-2015-game-7782@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7782
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 82/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - Tappara
+DTSTART;VALUE=DATE-TIME:20151119T163000Z
+UID:Liiga-Runkosarja-2015-game-7784@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7784
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 84/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - HPK
+DTSTART;VALUE=DATE-TIME:20151119T163000Z
+UID:Liiga-Runkosarja-2015-game-7785@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7785
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 85/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - Kärpät
+DTSTART;VALUE=DATE-TIME:20151119T163000Z
+UID:Liiga-Runkosarja-2015-game-7786@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7786
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 86/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - Kärpät
+DTSTART;VALUE=DATE-TIME:20151120T163000Z
+UID:Liiga-Runkosarja-2015-game-7789@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7789
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 89/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - Ilves
+DTSTART;VALUE=DATE-TIME:20151120T163000Z
+UID:Liiga-Runkosarja-2015-game-7788@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7788
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 88/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - Pelicans
+DTSTART;VALUE=DATE-TIME:20151120T163000Z
+UID:Liiga-Runkosarja-2015-game-7787@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7787
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 87/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - HPK
+DTSTART;VALUE=DATE-TIME:20151121T150000Z
+UID:Liiga-Runkosarja-2015-game-7793@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7793
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 93/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - TPS
+DTSTART;VALUE=DATE-TIME:20151121T150000Z
+UID:Liiga-Runkosarja-2015-game-7790@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7790
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 90/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - Ässät
+DTSTART;VALUE=DATE-TIME:20151121T150000Z
+UID:Liiga-Runkosarja-2015-game-7792@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7792
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 92/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - HIFK
+DTSTART;VALUE=DATE-TIME:20151121T150000Z
+UID:Liiga-Runkosarja-2015-game-7791@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7791
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 91/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - JYP
+DTSTART;VALUE=DATE-TIME:20151122T130000Z
+UID:Liiga-Runkosarja-2015-game-7794@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7794
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 94/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - Lukko
+DTSTART;VALUE=DATE-TIME:20151122T130000Z
+UID:Liiga-Runkosarja-2015-game-7796@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7796
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 96/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - Pelicans
+DTSTART;VALUE=DATE-TIME:20151122T130000Z
+UID:Liiga-Runkosarja-2015-game-7795@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7795
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 95/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - KalPa
+DTSTART;VALUE=DATE-TIME:20151124T163000Z
+UID:Liiga-Runkosarja-2015-game-7797@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7797
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 97/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - HIFK
+DTSTART;VALUE=DATE-TIME:20151124T163000Z
+UID:Liiga-Runkosarja-2015-game-7757@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7757
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 57/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - SaiPa
+DTSTART;VALUE=DATE-TIME:20151124T163000Z
+UID:Liiga-Runkosarja-2015-game-7798@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7798
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 98/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - Blues
+DTSTART;VALUE=DATE-TIME:20151124T163000Z
+UID:Liiga-Runkosarja-2015-game-7799@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7799
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 99/seuranta/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - KalPa
+DTSTART;VALUE=DATE-TIME:20151125T163000Z
+UID:Liiga-Runkosarja-2015-game-7803@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7803
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 03/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1428504$6232049
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - Blues
+DTSTART;VALUE=DATE-TIME:20151125T163000Z
+UID:Liiga-Runkosarja-2015-game-7801@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7801
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 01/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1391059$6360510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - Ässät
+DTSTART;VALUE=DATE-TIME:20151125T163000Z
+UID:Liiga-Runkosarja-2015-game-7800@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7800
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 00/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1418860$6359964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - HIFK
+DTSTART;VALUE=DATE-TIME:20151125T163000Z
+UID:Liiga-Runkosarja-2015-game-7804@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7804
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 04/seuranta/\n\nOsta lippuja: http://www.lippu.fi/sport-hifk-vaasa-Lippuja
+ .html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=tickets&ke
+ y=1485049%246740808&jumpIn=yTix&kuid=450479&from=erdetaila
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - Kärpät
+DTSTART;VALUE=DATE-TIME:20151125T163000Z
+UID:Liiga-Runkosarja-2015-game-7805@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7805
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 05/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tps-karpat-
+ lippuja/157625?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - Tappara
+DTSTART;VALUE=DATE-TIME:20151125T163000Z
+UID:Liiga-Runkosarja-2015-game-7802@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7802
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 02/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/pelicans-ta
+ ppara-lippuja/159933?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - Lukko
+DTSTART;VALUE=DATE-TIME:20151126T163000Z
+UID:Liiga-Runkosarja-2015-game-7806@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7806
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 06/seuranta/\n\nOsta lippuja: http://www.lippu.fi/jyp-lukko-jyvaeskylae-Li
+ ppuja.html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=ticke
+ ts&key=1483153%246385760&jumpIn=yTix&kuid=492599&from=erdetaila
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - Pelicans
+DTSTART;VALUE=DATE-TIME:20151127T163000Z
+UID:Liiga-Runkosarja-2015-game-7810@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7810
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 10/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tps-pelican
+ s-lippuja/157627?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - KooKoo
+DTSTART;VALUE=DATE-TIME:20151127T163000Z
+UID:Liiga-Runkosarja-2015-game-7809@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7809
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 09/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/lukko-kooko
+ o-lippuja/162201?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - Kärpät
+DTSTART;VALUE=DATE-TIME:20151127T163000Z
+UID:Liiga-Runkosarja-2015-game-7807@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7807
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 07/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/hifk-karpat
+ -lippuja/157107?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - Ilves
+DTSTART;VALUE=DATE-TIME:20151127T163000Z
+UID:Liiga-Runkosarja-2015-game-7808@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7808
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 08/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kalpa-ilves
+ -lippuja/155721?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - HIFK
+DTSTART;VALUE=DATE-TIME:20151128T150000Z
+UID:Liiga-Runkosarja-2015-game-7816@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7816
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 16/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tappara-hif
+ k-lippuja/158395?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - Ilves
+DTSTART;VALUE=DATE-TIME:20151128T150000Z
+UID:Liiga-Runkosarja-2015-game-7813@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7813
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 13/seuranta/\n\nOsta lippuja: http://www.lippu.fi/jyp-ilves-jyvaeskylae-Li
+ ppuja.html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=ticke
+ ts&key=1483153%246385761&jumpIn=yTix&kuid=492599&from=erdetaila
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - Sport
+DTSTART;VALUE=DATE-TIME:20151128T150000Z
+UID:Liiga-Runkosarja-2015-game-7815@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7815
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 15/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/pelicans-sp
+ ort-lippuja/159935?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - KooKoo
+DTSTART;VALUE=DATE-TIME:20151128T150000Z
+UID:Liiga-Runkosarja-2015-game-7811@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7811
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 11/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1500362$6586094
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - SaiPa
+DTSTART;VALUE=DATE-TIME:20151128T150000Z
+UID:Liiga-Runkosarja-2015-game-7812@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7812
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 12/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1418860$6359965
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - Blues
+DTSTART;VALUE=DATE-TIME:20151128T150000Z
+UID:Liiga-Runkosarja-2015-game-7814@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7814
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 14/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/karpat-blue
+ s-lippuja/160287?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - SaiPa
+DTSTART;VALUE=DATE-TIME:20151202T163000Z
+UID:Liiga-Runkosarja-2015-game-7819@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7819
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 19/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tps-saipa-l
+ ippuja/157629?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - Pelicans
+DTSTART;VALUE=DATE-TIME:20151202T163000Z
+UID:Liiga-Runkosarja-2015-game-7817@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7817
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 17/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/blues-pelic
+ ans-lippuja/155307?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - Ilves
+DTSTART;VALUE=DATE-TIME:20151203T163000Z
+UID:Liiga-Runkosarja-2015-game-7820@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7820
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 20/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/karpat-ilve
+ s-lippuja/160289?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - Sport
+DTSTART;VALUE=DATE-TIME:20151204T163000Z
+UID:Liiga-Runkosarja-2015-game-7824@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7824
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 24/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/lukko-sport
+ -lippuja/162203?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - HPK
+DTSTART;VALUE=DATE-TIME:20151204T163000Z
+UID:Liiga-Runkosarja-2015-game-7821@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7821
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 21/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/hifk-hpk-li
+ ppuja/157111?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - Tappara
+DTSTART;VALUE=DATE-TIME:20151204T163000Z
+UID:Liiga-Runkosarja-2015-game-7823@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7823
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 23/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kookoo-tapp
+ ara-lippuja/158735?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - KalPa
+DTSTART;VALUE=DATE-TIME:20151204T163000Z
+UID:Liiga-Runkosarja-2015-game-7822@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7822
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 22/seuranta/\n\nOsta lippuja: http://www.lippu.fi/jyp-kalpa-jyvaeskylae-Li
+ ppuja.html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=ticke
+ ts&key=1483153%246385762&jumpIn=yTix&kuid=492599&from=erdetaila
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - Tappara
+DTSTART;VALUE=DATE-TIME:20151205T150000Z
+UID:Liiga-Runkosarja-2015-game-7828@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7828
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 28/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1428504$6232050
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - TPS
+DTSTART;VALUE=DATE-TIME:20151205T150000Z
+UID:Liiga-Runkosarja-2015-game-7829@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7829
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 29/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1485049$6947819
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - JYP
+DTSTART;VALUE=DATE-TIME:20151205T150000Z
+UID:Liiga-Runkosarja-2015-game-7830@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7830
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 30/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1500362$6586095
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - Ilves
+DTSTART;VALUE=DATE-TIME:20151205T150000Z
+UID:Liiga-Runkosarja-2015-game-7827@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7827
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 27/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/pelicans-il
+ ves-lippuja/159937?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - HIFK
+DTSTART;VALUE=DATE-TIME:20151205T150000Z
+UID:Liiga-Runkosarja-2015-game-7826@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7826
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 26/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/karpat-hifk
+ -lippuja/160291?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - Blues
+DTSTART;VALUE=DATE-TIME:20151205T150000Z
+UID:Liiga-Runkosarja-2015-game-7825@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7825
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 25/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kalpa-blues
+ -lippuja/155725?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - Sport
+DTSTART;VALUE=DATE-TIME:20151209T163000Z
+UID:Liiga-Runkosarja-2015-game-7832@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7832
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 32/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/karpat-spor
+ t-lippuja/160293?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - TPS
+DTSTART;VALUE=DATE-TIME:20151210T163000Z
+UID:Liiga-Runkosarja-2015-game-7833@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7833
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 33/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/hifk-tps-li
+ ppuja/157113?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - Ilves
+DTSTART;VALUE=DATE-TIME:20151210T163000Z
+UID:Liiga-Runkosarja-2015-game-7834@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7834
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 34/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1500362$6586096
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - KooKoo
+DTSTART;VALUE=DATE-TIME:20151211T163000Z
+UID:Liiga-Runkosarja-2015-game-7839@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7839
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 39/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/pelicans-ko
+ okoo-lippuja/159941?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - Kärpät
+DTSTART;VALUE=DATE-TIME:20151211T163000Z
+UID:Liiga-Runkosarja-2015-game-7835@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7835
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 35/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/blues-karpa
+ t-lippuja/155313?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - SaiPa
+DTSTART;VALUE=DATE-TIME:20151211T163000Z
+UID:Liiga-Runkosarja-2015-game-7838@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7838
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 38/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kalpa-saipa
+ -lippuja/155727?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - Lukko
+DTSTART;VALUE=DATE-TIME:20151211T163000Z
+UID:Liiga-Runkosarja-2015-game-7836@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7836
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 36/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1418860$6359966
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - Tappara
+DTSTART;VALUE=DATE-TIME:20151211T163000Z
+UID:Liiga-Runkosarja-2015-game-7837@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7837
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 37/seuranta/\n\nOsta lippuja: http://www.lippu.fi/jyp-tappara-jyvaeskylae-
+ Lippuja.html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=tic
+ kets&key=1483153%246385763&jumpIn=yTix&kuid=492599&from=erdetaila
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - HPK
+DTSTART;VALUE=DATE-TIME:20151212T150000Z
+UID:Liiga-Runkosarja-2015-game-7841@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7841
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 41/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kookoo-hpk-
+ lippuja/158737?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - JYP
+DTSTART;VALUE=DATE-TIME:20151212T150000Z
+UID:Liiga-Runkosarja-2015-game-7844@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7844
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 44/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1428504$6232051
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - Tappara
+DTSTART;VALUE=DATE-TIME:20151212T150000Z
+UID:Liiga-Runkosarja-2015-game-7845@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7845
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 45/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1485049$6947820
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - KalPa
+DTSTART;VALUE=DATE-TIME:20151212T150000Z
+UID:Liiga-Runkosarja-2015-game-7842@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7842
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 42/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/karpat-kalp
+ a-lippuja/160295?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - Blues
+DTSTART;VALUE=DATE-TIME:20151212T150000Z
+UID:Liiga-Runkosarja-2015-game-7843@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7843
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 43/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/lukko-blues
+ -lippuja/162205?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - Tappara
+DTSTART;VALUE=DATE-TIME:20151215T163000Z
+UID:Liiga-Runkosarja-2015-game-7848@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7848
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 48/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kalpa-tappa
+ ra-lippuja/155733?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - SaiPa
+DTSTART;VALUE=DATE-TIME:20151215T163000Z
+UID:Liiga-Runkosarja-2015-game-7846@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7846
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 46/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/hifk-saipa-
+ lippuja/157115?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - Sport
+DTSTART;VALUE=DATE-TIME:20151215T163000Z
+UID:Liiga-Runkosarja-2015-game-7849@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7849
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 49/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kookoo-spor
+ t-lippuja/158741?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - Kärpät
+DTSTART;VALUE=DATE-TIME:20151215T163000Z
+UID:Liiga-Runkosarja-2015-game-7850@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7850
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 50/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1500362$6586097
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - Pelicans
+DTSTART;VALUE=DATE-TIME:20151215T163000Z
+UID:Liiga-Runkosarja-2015-game-7847@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7847
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 47/seuranta/\n\nOsta lippuja: http://www.lippu.fi/jyp-pelicans-jyvaeskylae
+ -Lippuja.html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=ti
+ ckets&key=1483153%246385764&jumpIn=yTix&kuid=492599&from=erdetaila
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - Ässät
+DTSTART;VALUE=DATE-TIME:20151216T163000Z
+UID:Liiga-Runkosarja-2015-game-7851@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7851
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 51/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/blues-assat
+ -lippuja/155315?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - TPS
+DTSTART;VALUE=DATE-TIME:20151216T163000Z
+UID:Liiga-Runkosarja-2015-game-7852@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7852
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 52/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1418860$6359967
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - Ilves
+DTSTART;VALUE=DATE-TIME:20151216T163000Z
+UID:Liiga-Runkosarja-2015-game-7855@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7855
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 55/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tappara-ilv
+ es-lippuja/158357?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - Sport
+DTSTART;VALUE=DATE-TIME:20151216T163000Z
+UID:Liiga-Runkosarja-2015-game-7854@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7854
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 54/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1428504$6232052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - Lukko
+DTSTART;VALUE=DATE-TIME:20151216T163000Z
+UID:Liiga-Runkosarja-2015-game-7853@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7853
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 53/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/pelicans-lu
+ kko-lippuja/159943?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - HPK
+DTSTART;VALUE=DATE-TIME:20151217T163000Z
+UID:Liiga-Runkosarja-2015-game-7856@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7856
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 56/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/blues-hpk-l
+ ippuja/155317?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - Lukko
+DTSTART;VALUE=DATE-TIME:20151217T163000Z
+UID:Liiga-Runkosarja-2015-game-7818@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7818
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 18/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/hifk-lukko-
+ huom-ottelu-siirtynyt-uusi-paiva-17122015-lippuja/157109?language=fi-fi&ca
+ mefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - KooKoo
+DTSTART;VALUE=DATE-TIME:20151218T163000Z
+UID:Liiga-Runkosarja-2015-game-7857@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7857
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 57/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tps-kookoo-
+ lippuja/157631?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - HIFK
+DTSTART;VALUE=DATE-TIME:20151218T163000Z
+UID:Liiga-Runkosarja-2015-game-7840@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7840
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 40/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1391059$6360511
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - Ilves
+DTSTART;VALUE=DATE-TIME:20151226T140000Z
+UID:Liiga-Runkosarja-2015-game-7863@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7863
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 63/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tps-ilves-l
+ ippuja/157633?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - Blues
+DTSTART;VALUE=DATE-TIME:20151226T150000Z
+UID:Liiga-Runkosarja-2015-game-7860@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7860
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 60/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/karpat-blue
+ s-lippuja/160297?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - Pelicans
+DTSTART;VALUE=DATE-TIME:20151226T140000Z
+UID:Liiga-Runkosarja-2015-game-7861@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7861
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 61/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1428504$6232053
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - HIFK
+DTSTART;VALUE=DATE-TIME:20151226T163000Z
+UID:Liiga-Runkosarja-2015-game-7862@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7862
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 62/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1485049$6947821
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - HPK
+DTSTART;VALUE=DATE-TIME:20151226T163000Z
+UID:Liiga-Runkosarja-2015-game-7859@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7859
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 59/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kalpa-hpk-l
+ ippuja/155735?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - Lukko
+DTSTART;VALUE=DATE-TIME:20151226T140000Z
+UID:Liiga-Runkosarja-2015-game-7858@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7858
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 58/seuranta/\n\nOsta lippuja: http://www.lippu.fi/jyp-lukko-jyvaeskylae-Li
+ ppuja.html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=ticke
+ ts&key=1483153%246385765&jumpIn=yTix&kuid=492599&from=erdetaila
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - KooKoo
+DTSTART;VALUE=DATE-TIME:20151226T163000Z
+UID:Liiga-Runkosarja-2015-game-7864@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7864
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 64/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1500362$6586098
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - SaiPa
+DTSTART;VALUE=DATE-TIME:20151229T163000Z
+UID:Liiga-Runkosarja-2015-game-7866@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7866
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 66/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/lukko-saipa
+ -lippuja/162207?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - JYP
+DTSTART;VALUE=DATE-TIME:20151229T163000Z
+UID:Liiga-Runkosarja-2015-game-7869@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7869
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 69/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kalpa-jyp-l
+ ippuja/155737?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - Kärpät
+DTSTART;VALUE=DATE-TIME:20151229T163000Z
+UID:Liiga-Runkosarja-2015-game-7865@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7865
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 65/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kookoo-karp
+ at-lippuja/158743?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - Sport
+DTSTART;VALUE=DATE-TIME:20151229T163000Z
+UID:Liiga-Runkosarja-2015-game-7867@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7867
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 67/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/pelicans-sp
+ ort-lippuja/159945?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - HIFK
+DTSTART;VALUE=DATE-TIME:20151229T163000Z
+UID:Liiga-Runkosarja-2015-game-7868@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7868
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 68/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tappara-hif
+ k-lippuja/158359?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - Ässät
+DTSTART;VALUE=DATE-TIME:20151229T163000Z
+UID:Liiga-Runkosarja-2015-game-7870@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7870
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 70/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1418860$6359968
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - Kärpät
+DTSTART;VALUE=DATE-TIME:20151230T163000Z
+UID:Liiga-Runkosarja-2015-game-7872@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7872
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 72/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1391059$6360512
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - SaiPa
+DTSTART;VALUE=DATE-TIME:20151230T163000Z
+UID:Liiga-Runkosarja-2015-game-7874@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7874
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 74/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1500362$6586099
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - Pelicans
+DTSTART;VALUE=DATE-TIME:20151230T163000Z
+UID:Liiga-Runkosarja-2015-game-7873@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7873
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 73/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tps-pelican
+ s-lippuja/157637?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - Sport
+DTSTART;VALUE=DATE-TIME:20151230T163000Z
+UID:Liiga-Runkosarja-2015-game-7871@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7871
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 71/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/blues-sport
+ -lippuja/155319?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - TPS
+DTSTART;VALUE=DATE-TIME:20160103T130000Z
+UID:Liiga-Runkosarja-2015-game-7876@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7876
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 76/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/lukko-tps-l
+ ippuja/162209?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - SaiPa
+DTSTART;VALUE=DATE-TIME:20160103T150000Z
+UID:Liiga-Runkosarja-2015-game-7878@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7878
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 78/seuranta/\n\nOsta lippuja: http://www.lippu.fi/ilves
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - KalPa
+DTSTART;VALUE=DATE-TIME:20160103T130000Z
+UID:Liiga-Runkosarja-2015-game-7877@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7877
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 77/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/pelicans-ka
+ lpa-lippuja/159947?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - Blues
+DTSTART;VALUE=DATE-TIME:20160103T130000Z
+UID:Liiga-Runkosarja-2015-game-7875@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7875
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 75/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kookoo-blue
+ s-lippuja/158747?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - JYP
+DTSTART;VALUE=DATE-TIME:20160105T163000Z
+UID:Liiga-Runkosarja-2015-game-7879@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7879
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 79/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1418860$6359969
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - Lukko
+DTSTART;VALUE=DATE-TIME:20160105T163000Z
+UID:Liiga-Runkosarja-2015-game-7881@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7881
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 81/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/karpat-lukk
+ o-lippuja/160299?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - TPS
+DTSTART;VALUE=DATE-TIME:20160105T163000Z
+UID:Liiga-Runkosarja-2015-game-7880@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7880
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 80/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kalpa-tps-l
+ ippuja/155741?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - Ässät
+DTSTART;VALUE=DATE-TIME:20160105T163000Z
+UID:Liiga-Runkosarja-2015-game-7882@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7882
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 82/seuranta/\n\nOsta lippuja: http://www.lippu.fi/sport
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - KooKoo
+DTSTART;VALUE=DATE-TIME:20160105T163000Z
+UID:Liiga-Runkosarja-2015-game-7783@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7783
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 83/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/blues-kooko
+ o-lippuja/155321?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - Sport
+DTSTART;VALUE=DATE-TIME:20160106T150000Z
+UID:Liiga-Runkosarja-2015-game-7883@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7883
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 83/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/hifk-sport-
+ lippuja/157117?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - Blues
+DTSTART;VALUE=DATE-TIME:20160107T163000Z
+UID:Liiga-Runkosarja-2015-game-7884@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7884
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 84/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tappara-blu
+ es-lippuja/158361?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - KooKoo
+DTSTART;VALUE=DATE-TIME:20160108T163000Z
+UID:Liiga-Runkosarja-2015-game-7885@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7885
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 85/seuranta/\n\nOsta lippuja: http://www.lippu.fi/jyp-kookoo-jyvaeskylae-L
+ ippuja.html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=tick
+ ets&key=1483153%246385766&jumpIn=yTix&kuid=492599&from=erdetaila
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - KalPa
+DTSTART;VALUE=DATE-TIME:20160108T163000Z
+UID:Liiga-Runkosarja-2015-game-7888@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7888
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 88/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tps-kalpa-l
+ ippuja/157639?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - Kärpät
+DTSTART;VALUE=DATE-TIME:20160108T163000Z
+UID:Liiga-Runkosarja-2015-game-7887@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7887
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 87/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1428504$6232054
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - HIFK
+DTSTART;VALUE=DATE-TIME:20160108T163000Z
+UID:Liiga-Runkosarja-2015-game-7889@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7889
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 89/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1500362$6586100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - Ilves
+DTSTART;VALUE=DATE-TIME:20160108T163000Z
+UID:Liiga-Runkosarja-2015-game-7886@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7886
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 86/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/lukko-ilves
+ -lippuja/162211?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - Tappara
+DTSTART;VALUE=DATE-TIME:20160109T150000Z
+UID:Liiga-Runkosarja-2015-game-7895@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7895
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 95/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/pelicans-ta
+ ppara-lippuja/159983?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - TPS
+DTSTART;VALUE=DATE-TIME:20160109T130000Z
+UID:Liiga-Runkosarja-2015-game-7890@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7890
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 90/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/blues-tps-l
+ ippuja/155323?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - SaiPa
+DTSTART;VALUE=DATE-TIME:20160109T150000Z
+UID:Liiga-Runkosarja-2015-game-7894@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7894
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 94/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kookoo-saip
+ a-lippuja/158749?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - JYP
+DTSTART;VALUE=DATE-TIME:20160109T150000Z
+UID:Liiga-Runkosarja-2015-game-7893@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7893
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 93/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1391059$6360513
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - KalPa
+DTSTART;VALUE=DATE-TIME:20160109T150000Z
+UID:Liiga-Runkosarja-2015-game-7891@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7891
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 91/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/hifk-kalpa-
+ lippuja/157119?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - Kärpät
+DTSTART;VALUE=DATE-TIME:20160109T130000Z
+UID:Liiga-Runkosarja-2015-game-7892@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7892
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 92/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1418860$6359970
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - SaiPa
+DTSTART;VALUE=DATE-TIME:20160113T163000Z
+UID:Liiga-Runkosarja-2015-game-7897@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7897
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 97/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kalpa-saipa
+ -lippuja/155743?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - Ässät
+DTSTART;VALUE=DATE-TIME:20160113T163000Z
+UID:Liiga-Runkosarja-2015-game-7896@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7896
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 96/seuranta/\n\nOsta lippuja: http://www.lippu.fi/jyp-aessaet-jyvaeskylae-
+ Lippuja.html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=tic
+ kets&key=1483153%246385767&jumpIn=yTix&kuid=492599&from=erdetaila
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - Sport
+DTSTART;VALUE=DATE-TIME:20160113T163000Z
+UID:Liiga-Runkosarja-2015-game-7899@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7899
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 99/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tps-sport-l
+ ippuja/157641?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - HPK
+DTSTART;VALUE=DATE-TIME:20160113T163000Z
+UID:Liiga-Runkosarja-2015-game-7831@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7831
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 31/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/blues-hpk-l
+ ippuja/155311?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - KooKoo
+DTSTART;VALUE=DATE-TIME:20160113T163000Z
+UID:Liiga-Runkosarja-2015-game-7898@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7898
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/78
+ 98/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/lukko-kooko
+ o-lippuja/162213?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - Kärpät
+DTSTART;VALUE=DATE-TIME:20160114T163000Z
+UID:Liiga-Runkosarja-2015-game-7900@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7900
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 00/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tappara-kar
+ pat-lippuja/158363?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - Pelicans
+DTSTART;VALUE=DATE-TIME:20160114T163000Z
+UID:Liiga-Runkosarja-2015-game-7901@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7901
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 01/seuranta/\n\nOsta lippuja: http://www.lippu.fi/sport
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - JYP
+DTSTART;VALUE=DATE-TIME:20160115T163000Z
+UID:Liiga-Runkosarja-2015-game-7905@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7905
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 05/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tps-jyp-lip
+ puja/157643?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - Blues
+DTSTART;VALUE=DATE-TIME:20160115T163000Z
+UID:Liiga-Runkosarja-2015-game-7904@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7904
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 04/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1428504$6232055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - KalPa
+DTSTART;VALUE=DATE-TIME:20160115T163000Z
+UID:Liiga-Runkosarja-2015-game-7903@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7903
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 03/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kookoo-kalp
+ a-lippuja/158751?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - Ilves
+DTSTART;VALUE=DATE-TIME:20160115T163000Z
+UID:Liiga-Runkosarja-2015-game-7902@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7902
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 02/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/hifk-ilves-
+ lippuja/157121?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - Pelicans
+DTSTART;VALUE=DATE-TIME:20160116T140000Z
+UID:Liiga-Runkosarja-2015-game-7909@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7909
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 09/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/karpat-peli
+ cans-lippuja/160301?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - Lukko
+DTSTART;VALUE=DATE-TIME:20160116T150000Z
+UID:Liiga-Runkosarja-2015-game-7906@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7906
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 06/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/blues-lukko
+ -lippuja/155325?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - Tappara
+DTSTART;VALUE=DATE-TIME:20160116T140000Z
+UID:Liiga-Runkosarja-2015-game-7910@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7910
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 10/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1500362$6586101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - KooKoo
+DTSTART;VALUE=DATE-TIME:20160116T150000Z
+UID:Liiga-Runkosarja-2015-game-7907@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7907
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 07/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1418860$6359971
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - TPS
+DTSTART;VALUE=DATE-TIME:20160116T150000Z
+UID:Liiga-Runkosarja-2015-game-7908@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7908
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 08/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1391059$6360514
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - Sport
+DTSTART;VALUE=DATE-TIME:20160117T130000Z
+UID:Liiga-Runkosarja-2015-game-7911@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7911
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 11/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kalpa-sport
+ -lippuja/155745?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - HPK
+DTSTART;VALUE=DATE-TIME:20160117T130000Z
+UID:Liiga-Runkosarja-2015-game-7912@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7912
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 12/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tappara-hpk
+ -lippuja/158365?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - HIFK
+DTSTART;VALUE=DATE-TIME:20160120T163000Z
+UID:Liiga-Runkosarja-2015-game-7914@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7914
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 14/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tps-hifk-li
+ ppuja/157645?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - HPK
+DTSTART;VALUE=DATE-TIME:20160120T163000Z
+UID:Liiga-Runkosarja-2015-game-7913@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7913
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 13/seuranta/\n\nOsta lippuja: http://www.lippu.fi/jyp-hpk-jyvaeskylae-Lipp
+ uja.html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=tickets
+ &key=1483153%246385768&jumpIn=yTix&kuid=492599&from=erdetaila
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - Kärpät
+DTSTART;VALUE=DATE-TIME:20160122T163000Z
+UID:Liiga-Runkosarja-2015-game-7918@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7918
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 18/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kalpa-karpa
+ t-lippuja/155751?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - Blues
+DTSTART;VALUE=DATE-TIME:20160122T163000Z
+UID:Liiga-Runkosarja-2015-game-7915@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7915
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 15/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/hifk-blues-
+ lippuja/157123?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - Pelicans
+DTSTART;VALUE=DATE-TIME:20160122T163000Z
+UID:Liiga-Runkosarja-2015-game-7919@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7919
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 19/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kookoo-peli
+ cans-lippuja/158753?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - Ilves
+DTSTART;VALUE=DATE-TIME:20160122T163000Z
+UID:Liiga-Runkosarja-2015-game-7921@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7921
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 21/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tappara-ilv
+ es-lippuja/158367?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - SaiPa
+DTSTART;VALUE=DATE-TIME:20160122T163000Z
+UID:Liiga-Runkosarja-2015-game-7916@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7916
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 16/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1418860$6359972
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - Sport
+DTSTART;VALUE=DATE-TIME:20160122T163000Z
+UID:Liiga-Runkosarja-2015-game-7917@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7917
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 17/seuranta/\n\nOsta lippuja: http://www.lippu.fi/jyp-sport-jyvaeskylae-Li
+ ppuja.html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=ticke
+ ts&key=1483153%246385769&jumpIn=yTix&kuid=492599&from=erdetaila
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - Ässät
+DTSTART;VALUE=DATE-TIME:20160122T163000Z
+UID:Liiga-Runkosarja-2015-game-7920@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7920
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 20/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/lukko-assat
+ -lippuja/162215?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - HIFK
+DTSTART;VALUE=DATE-TIME:20160123T150000Z
+UID:Liiga-Runkosarja-2015-game-7922@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7922
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 22/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/blues-hifk-
+ lippuja/155327?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - KalPa
+DTSTART;VALUE=DATE-TIME:20160123T150000Z
+UID:Liiga-Runkosarja-2015-game-7924@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7924
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 24/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/karpat-kalp
+ a-lippuja/160303?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - JYP
+DTSTART;VALUE=DATE-TIME:20160123T140000Z
+UID:Liiga-Runkosarja-2015-game-7927@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7927
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 27/seuranta/\n\nOsta lippuja: http://www.lippu.fi/sport
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - KooKoo
+DTSTART;VALUE=DATE-TIME:20160123T150000Z
+UID:Liiga-Runkosarja-2015-game-7925@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7925
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 25/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/pelicans-ko
+ okoo-lippuja/159985?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - HPK
+DTSTART;VALUE=DATE-TIME:20160123T150000Z
+UID:Liiga-Runkosarja-2015-game-7926@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7926
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 26/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1428504$6232056
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - Lukko
+DTSTART;VALUE=DATE-TIME:20160123T150000Z
+UID:Liiga-Runkosarja-2015-game-7928@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7928
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 28/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1500362$6586102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - Tappara
+DTSTART;VALUE=DATE-TIME:20160123T150000Z
+UID:Liiga-Runkosarja-2015-game-7923@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7923
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 23/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1391059$6360515
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - Kärpät
+DTSTART;VALUE=DATE-TIME:20160126T163000Z
+UID:Liiga-Runkosarja-2015-game-7930@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7930
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 30/seuranta/\n\nOsta lippuja: http://www.lippu.fi/jyp-kaerpaet-jyvaeskylae
+ -Lippuja.html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=ti
+ ckets&key=1483153%246385770&jumpIn=yTix&kuid=492599&from=erdetaila
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - Ässät
+DTSTART;VALUE=DATE-TIME:20160126T163000Z
+UID:Liiga-Runkosarja-2015-game-7935@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7935
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 35/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tps-assat-l
+ ippuja/157647?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - HIFK
+DTSTART;VALUE=DATE-TIME:20160126T163000Z
+UID:Liiga-Runkosarja-2015-game-7931@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7931
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 31/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kookoo-hifk
+ -lippuja/158755?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - Lukko
+DTSTART;VALUE=DATE-TIME:20160126T163000Z
+UID:Liiga-Runkosarja-2015-game-7934@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7934
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 34/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tappara-luk
+ ko-lippuja/158369?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - Ilves
+DTSTART;VALUE=DATE-TIME:20160126T163000Z
+UID:Liiga-Runkosarja-2015-game-7933@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7933
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 33/seuranta/\n\nOsta lippuja: http://www.lippu.fi/sport
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - Pelicans
+DTSTART;VALUE=DATE-TIME:20160126T163000Z
+UID:Liiga-Runkosarja-2015-game-7932@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7932
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 32/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1428504$6232057
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - Blues
+DTSTART;VALUE=DATE-TIME:20160126T163000Z
+UID:Liiga-Runkosarja-2015-game-7929@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7929
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 29/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1418860$6359973
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - SaiPa
+DTSTART;VALUE=DATE-TIME:20160127T163000Z
+UID:Liiga-Runkosarja-2015-game-7941@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7941
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 41/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/pelicans-sa
+ ipa-lippuja/159987?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - Sport
+DTSTART;VALUE=DATE-TIME:20160127T163000Z
+UID:Liiga-Runkosarja-2015-game-7938@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7938
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 38/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1391059$6360516
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - TPS
+DTSTART;VALUE=DATE-TIME:20160127T163000Z
+UID:Liiga-Runkosarja-2015-game-7942@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7942
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 42/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1500362$6586103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - Tappara
+DTSTART;VALUE=DATE-TIME:20160127T163000Z
+UID:Liiga-Runkosarja-2015-game-7940@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7940
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 40/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/lukko-tappa
+ ra-lippuja/162219?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - HPK
+DTSTART;VALUE=DATE-TIME:20160127T163000Z
+UID:Liiga-Runkosarja-2015-game-7936@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7936
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 36/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/blues-hpk-l
+ ippuja/155329?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - KooKoo
+DTSTART;VALUE=DATE-TIME:20160127T163000Z
+UID:Liiga-Runkosarja-2015-game-7937@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7937
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 37/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/hifk-kookoo
+ -lippuja/157125?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - JYP
+DTSTART;VALUE=DATE-TIME:20160127T163000Z
+UID:Liiga-Runkosarja-2015-game-7939@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7939
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 39/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/karpat-jyp-
+ lippuja/160323?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - SaiPa
+DTSTART;VALUE=DATE-TIME:20160129T163000Z
+UID:Liiga-Runkosarja-2015-game-7945@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7945
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 45/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kookoo-saip
+ a-lippuja/158757?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - TPS
+DTSTART;VALUE=DATE-TIME:20160129T163000Z
+UID:Liiga-Runkosarja-2015-game-7946@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7946
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 46/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/lukko-tps-l
+ ippuja/162221?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - JYP
+DTSTART;VALUE=DATE-TIME:20160129T163000Z
+UID:Liiga-Runkosarja-2015-game-7944@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7944
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 44/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kalpa-jyp-l
+ ippuja/155753?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - Ilves
+DTSTART;VALUE=DATE-TIME:20160129T163000Z
+UID:Liiga-Runkosarja-2015-game-7943@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7943
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 43/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/blues-ilves
+ -lippuja/155331?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - Pelicans
+DTSTART;VALUE=DATE-TIME:20160129T163000Z
+UID:Liiga-Runkosarja-2015-game-7948@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7948
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 48/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1500362$6586104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - Sport
+DTSTART;VALUE=DATE-TIME:20160129T163000Z
+UID:Liiga-Runkosarja-2015-game-7947@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7947
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 47/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tappara-spo
+ rt-lippuja/158371?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - Tappara
+DTSTART;VALUE=DATE-TIME:20160130T150000Z
+UID:Liiga-Runkosarja-2015-game-7954@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7954
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 54/seuranta/\n\nOsta lippuja: http://www.lippu.fi/sport
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - HPK
+DTSTART;VALUE=DATE-TIME:20160130T150000Z
+UID:Liiga-Runkosarja-2015-game-7949@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7949
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 49/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/hifk-hpk-li
+ ppuja/157133?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - Blues
+DTSTART;VALUE=DATE-TIME:20160130T150000Z
+UID:Liiga-Runkosarja-2015-game-7950@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7950
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 50/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1391059$6360517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - KalPa
+DTSTART;VALUE=DATE-TIME:20160130T150000Z
+UID:Liiga-Runkosarja-2015-game-7951@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7951
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 51/seuranta/\n\nOsta lippuja: http://www.lippu.fi/jyp-kalpa-jyvaeskylae-Li
+ ppuja.html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=ticke
+ ts&key=1483153%246385771&jumpIn=yTix&kuid=492599&from=erdetaila
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - Lukko
+DTSTART;VALUE=DATE-TIME:20160130T150000Z
+UID:Liiga-Runkosarja-2015-game-7955@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7955
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 55/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tps-lukko-l
+ ippuja/157649?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - KooKoo
+DTSTART;VALUE=DATE-TIME:20160130T150000Z
+UID:Liiga-Runkosarja-2015-game-7953@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7953
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 53/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1428504$6232058
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - Ässät
+DTSTART;VALUE=DATE-TIME:20160130T150000Z
+UID:Liiga-Runkosarja-2015-game-7952@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7952
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 52/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/pelicans-as
+ sat-lippuja/159989?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - HIFK
+DTSTART;VALUE=DATE-TIME:20160131T140000Z
+UID:Liiga-Runkosarja-2015-game-7956@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7956
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 56/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1418860$6359974
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - SaiPa
+DTSTART;VALUE=DATE-TIME:20160202T163000Z
+UID:Liiga-Runkosarja-2015-game-7958@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7958
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 58/seuranta/\n\nOsta lippuja: http://www.lippu.fi/sport
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - HPK
+DTSTART;VALUE=DATE-TIME:20160202T163000Z
+UID:Liiga-Runkosarja-2015-game-7957@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7957
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 57/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/karpat-hpk-
+ lippuja/160305?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - KalPa
+DTSTART;VALUE=DATE-TIME:20160202T163000Z
+UID:Liiga-Runkosarja-2015-game-7959@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7959
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 59/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1500362$6586105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - JYP
+DTSTART;VALUE=DATE-TIME:20160203T163000Z
+UID:Liiga-Runkosarja-2015-game-7961@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7961
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 61/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tappara-jyp
+ -lippuja/158373?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - Ilves
+DTSTART;VALUE=DATE-TIME:20160203T163000Z
+UID:Liiga-Runkosarja-2015-game-7960@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7960
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 60/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kookoo-ilve
+ s-lippuja/158759?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - HIFK
+DTSTART;VALUE=DATE-TIME:20160204T163000Z
+UID:Liiga-Runkosarja-2015-game-7965@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7965
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 65/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/pelicans-hi
+ fk-lippuja/159991?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - KalPa
+DTSTART;VALUE=DATE-TIME:20160204T163000Z
+UID:Liiga-Runkosarja-2015-game-7964@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7964
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 64/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/lukko-kalpa
+ -lippuja/162223?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - Ilves
+DTSTART;VALUE=DATE-TIME:20160204T163000Z
+UID:Liiga-Runkosarja-2015-game-7962@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7962
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 62/seuranta/\n\nOsta lippuja: http://www.lippu.fi/jyp-ilves-jyvaeskylae-Li
+ ppuja.html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=ticke
+ ts&key=1483153%246385772&jumpIn=yTix&kuid=492599&from=erdetaila
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - SaiPa
+DTSTART;VALUE=DATE-TIME:20160204T163000Z
+UID:Liiga-Runkosarja-2015-game-7963@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7963
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 63/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/karpat-saip
+ a-lippuja/160307?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - HPK
+DTSTART;VALUE=DATE-TIME:20160204T163000Z
+UID:Liiga-Runkosarja-2015-game-7966@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7966
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 66/seuranta/\n\nOsta lippuja: http://www.lippu.fi/sport
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - Ässät
+DTSTART;VALUE=DATE-TIME:20160204T163000Z
+UID:Liiga-Runkosarja-2015-game-7967@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7967
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 67/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tps-assat-l
+ ippuja/157651?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - KooKoo
+DTSTART;VALUE=DATE-TIME:20160205T163000Z
+UID:Liiga-Runkosarja-2015-game-7968@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7968
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 68/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/blues-kooko
+ o-lippuja/155333?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - TPS
+DTSTART;VALUE=DATE-TIME:20160205T163000Z
+UID:Liiga-Runkosarja-2015-game-7969@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7969
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 69/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tappara-tps
+ -lippuja/158375?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - JYP
+DTSTART;VALUE=DATE-TIME:20160206T140000Z
+UID:Liiga-Runkosarja-2015-game-7973@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7973
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 73/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/lukko-jyp-l
+ ippuja/162225?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - Kärpät
+DTSTART;VALUE=DATE-TIME:20160206T150000Z
+UID:Liiga-Runkosarja-2015-game-7972@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7972
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 72/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kalpa-karpa
+ t-lippuja/155755?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - KooKoo
+DTSTART;VALUE=DATE-TIME:20160206T150000Z
+UID:Liiga-Runkosarja-2015-game-7974@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7974
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 74/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1428504$6232059
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - Sport
+DTSTART;VALUE=DATE-TIME:20160206T150000Z
+UID:Liiga-Runkosarja-2015-game-7975@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7975
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 75/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1500362$6586106
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - Blues
+DTSTART;VALUE=DATE-TIME:20160206T150000Z
+UID:Liiga-Runkosarja-2015-game-7970@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7970
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 70/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/hifk-blues-
+ lippuja/157137?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - Pelicans
+DTSTART;VALUE=DATE-TIME:20160206T150000Z
+UID:Liiga-Runkosarja-2015-game-7971@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7971
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 71/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1418860$6359975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - Sport
+DTSTART;VALUE=DATE-TIME:20160210T163000Z
+UID:Liiga-Runkosarja-2015-game-7979@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7979
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 79/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/karpat-spor
+ t-lippuja/160309?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - HPK
+DTSTART;VALUE=DATE-TIME:20160210T163000Z
+UID:Liiga-Runkosarja-2015-game-7977@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7977
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 77/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1391059$6360518
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - Tappara
+DTSTART;VALUE=DATE-TIME:20160210T163000Z
+UID:Liiga-Runkosarja-2015-game-7976@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7976
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 76/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/blues-tappa
+ ra-lippuja/155335?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - Pelicans
+DTSTART;VALUE=DATE-TIME:20160210T163000Z
+UID:Liiga-Runkosarja-2015-game-7978@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7978
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 78/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kalpa-pelic
+ ans-lippuja/155761?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - Lukko
+DTSTART;VALUE=DATE-TIME:20160210T163000Z
+UID:Liiga-Runkosarja-2015-game-7980@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7980
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 80/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tps-lukko-l
+ ippuja/157653?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - KalPa
+DTSTART;VALUE=DATE-TIME:20160212T163000Z
+UID:Liiga-Runkosarja-2015-game-7982@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7982
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 82/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1418860$6359976
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - Lukko
+DTSTART;VALUE=DATE-TIME:20160212T163000Z
+UID:Liiga-Runkosarja-2015-game-7987@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7987
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 87/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1500362$6586107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - JYP
+DTSTART;VALUE=DATE-TIME:20160212T163000Z
+UID:Liiga-Runkosarja-2015-game-7981@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7981
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 81/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/hifk-jyp-li
+ ppuja/157139?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - Pelicans
+DTSTART;VALUE=DATE-TIME:20160212T163000Z
+UID:Liiga-Runkosarja-2015-game-7986@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7986
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 86/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tappara-pel
+ icans-lippuja/158377?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - TPS
+DTSTART;VALUE=DATE-TIME:20160212T163000Z
+UID:Liiga-Runkosarja-2015-game-7983@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7983
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 83/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kookoo-tps-
+ lippuja/158763?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - Ilves
+DTSTART;VALUE=DATE-TIME:20160212T163000Z
+UID:Liiga-Runkosarja-2015-game-7984@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7984
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 84/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1428504$6232060
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - Kärpät
+DTSTART;VALUE=DATE-TIME:20160212T163000Z
+UID:Liiga-Runkosarja-2015-game-7985@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7985
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 85/seuranta/\n\nOsta lippuja: http://www.lippu.fi/sport
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - KooKoo
+DTSTART;VALUE=DATE-TIME:20160216T163000Z
+UID:Liiga-Runkosarja-2015-game-7989@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7989
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 89/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/karpat-kook
+ oo-lippuja/160311?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - SaiPa
+DTSTART;VALUE=DATE-TIME:20160216T163000Z
+UID:Liiga-Runkosarja-2015-game-7758@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7758
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/77
+ 58/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/blues-saipa
+ -lippuja/155303?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - Ässät
+DTSTART;VALUE=DATE-TIME:20160216T163000Z
+UID:Liiga-Runkosarja-2015-game-7988@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7988
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 88/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kalpa-assat
+ -lippuja/155763?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - Tappara
+DTSTART;VALUE=DATE-TIME:20160217T163000Z
+UID:Liiga-Runkosarja-2015-game-7994@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7994
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 94/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tps-tappara
+ -lippuja/157655?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - Blues
+DTSTART;VALUE=DATE-TIME:20160217T163000Z
+UID:Liiga-Runkosarja-2015-game-7993@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7993
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 93/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/pelicans-bl
+ ues-lippuja/159993?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - Sport
+DTSTART;VALUE=DATE-TIME:20160217T163000Z
+UID:Liiga-Runkosarja-2015-game-7990@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7990
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 90/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1391059$6360519
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - HIFK
+DTSTART;VALUE=DATE-TIME:20160217T163000Z
+UID:Liiga-Runkosarja-2015-game-7991@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7991
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 91/seuranta/\n\nOsta lippuja: http://www.lippu.fi/jyp-hifk-jyvaeskylae-Lip
+ puja.html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=ticket
+ s&key=1483153%246385773&jumpIn=yTix&kuid=492599&from=erdetaila
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - HPK
+DTSTART;VALUE=DATE-TIME:20160217T163000Z
+UID:Liiga-Runkosarja-2015-game-7992@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7992
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 92/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/lukko-hpk-l
+ ippuja/162227?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - Ässät
+DTSTART;VALUE=DATE-TIME:20160218T163000Z
+UID:Liiga-Runkosarja-2015-game-7996@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7996
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 96/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/karpat-assa
+ t-lippuja/160313?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - Tappara
+DTSTART;VALUE=DATE-TIME:20160218T163000Z
+UID:Liiga-Runkosarja-2015-game-7995@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7995
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 95/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/hifk-tappar
+ a-lippuja/157135?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - KooKoo
+DTSTART;VALUE=DATE-TIME:20160218T163000Z
+UID:Liiga-Runkosarja-2015-game-7997@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7997
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 97/seuranta/\n\nOsta lippuja: http://www.lippu.fi/sport
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - Lukko
+DTSTART;VALUE=DATE-TIME:20160219T163000Z
+UID:Liiga-Runkosarja-2015-game-7999@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7999
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 99/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1391059$6360520
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - TPS
+DTSTART;VALUE=DATE-TIME:20160219T163000Z
+UID:Liiga-Runkosarja-2015-game-8000@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8000
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 00/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kalpa-tps-l
+ ippuja/155765?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - JYP
+DTSTART;VALUE=DATE-TIME:20160219T163000Z
+UID:Liiga-Runkosarja-2015-game-7998@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/7998
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/79
+ 98/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/blues-jyp-l
+ ippuja/155339?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - SaiPa
+DTSTART;VALUE=DATE-TIME:20160219T163000Z
+UID:Liiga-Runkosarja-2015-game-8001@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8001
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 01/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/pelicans-sa
+ ipa-lippuja/159995?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - TPS
+DTSTART;VALUE=DATE-TIME:20160220T150000Z
+UID:Liiga-Runkosarja-2015-game-8007@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8007
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 07/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1428504$6232061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - HIFK
+DTSTART;VALUE=DATE-TIME:20160220T150000Z
+UID:Liiga-Runkosarja-2015-game-8003@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8003
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 03/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1418860$6359977
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - Pelicans
+DTSTART;VALUE=DATE-TIME:20160220T150000Z
+UID:Liiga-Runkosarja-2015-game-8005@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8005
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 05/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kookoo-peli
+ cans-lippuja/158767?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - Kärpät
+DTSTART;VALUE=DATE-TIME:20160220T150000Z
+UID:Liiga-Runkosarja-2015-game-8004@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8004
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 04/seuranta/\n\nOsta lippuja: http://www.lippu.fi/jyp-kaerpaet-jyvaeskylae
+ -Lippuja.html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=ti
+ ckets&key=1483153%246385774&jumpIn=yTix&kuid=492599&from=erdetaila
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - Blues
+DTSTART;VALUE=DATE-TIME:20160220T150000Z
+UID:Liiga-Runkosarja-2015-game-8002@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8002
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 02/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1500362$6586108
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - Ilves
+DTSTART;VALUE=DATE-TIME:20160220T140000Z
+UID:Liiga-Runkosarja-2015-game-8006@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8006
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 06/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/lukko-ilves
+ -lippuja/162229?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - Sport
+DTSTART;VALUE=DATE-TIME:20160220T150000Z
+UID:Liiga-Runkosarja-2015-game-8008@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8008
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 08/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tappara-spo
+ rt-lippuja/158379?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - KalPa
+DTSTART;VALUE=DATE-TIME:20160223T163000Z
+UID:Liiga-Runkosarja-2015-game-8009@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8009
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 09/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1428504$6232062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - Lukko
+DTSTART;VALUE=DATE-TIME:20160223T163000Z
+UID:Liiga-Runkosarja-2015-game-8010@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8010
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 10/seuranta/\n\nOsta lippuja: http://www.lippu.fi/sport
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - HIFK
+DTSTART;VALUE=DATE-TIME:20160223T163000Z
+UID:Liiga-Runkosarja-2015-game-8020@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8020
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 20/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/blues-hifk-
+ lippuja/155341?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - Ässät
+DTSTART;VALUE=DATE-TIME:20160223T163000Z
+UID:Liiga-Runkosarja-2015-game-8011@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8011
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 11/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tappara-ass
+ at-lippuja/158381?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - Tappara
+DTSTART;VALUE=DATE-TIME:20160224T163000Z
+UID:Liiga-Runkosarja-2015-game-8012@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8012
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 12/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1500362$6586109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - Ilves
+DTSTART;VALUE=DATE-TIME:20160224T163000Z
+UID:Liiga-Runkosarja-2015-game-8013@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8013
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 13/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1418860$6359978
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - JYP
+DTSTART;VALUE=DATE-TIME:20160224T163000Z
+UID:Liiga-Runkosarja-2015-game-8014@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8014
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 14/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kookoo-jyp-
+ lippuja/158769?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - Blues
+DTSTART;VALUE=DATE-TIME:20160224T163000Z
+UID:Liiga-Runkosarja-2015-game-8015@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8015
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 15/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tps-blues-l
+ ippuja/157657?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - KalPa
+DTSTART;VALUE=DATE-TIME:20160225T163000Z
+UID:Liiga-Runkosarja-2015-game-8016@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8016
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 16/seuranta/\n\nOsta lippuja: http://www.lippu.fi/sport
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - Kärpät
+DTSTART;VALUE=DATE-TIME:20160226T163000Z
+UID:Liiga-Runkosarja-2015-game-8019@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8019
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 19/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tps-karpat-
+ lippuja/157659?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - Tappara
+DTSTART;VALUE=DATE-TIME:20160226T163000Z
+UID:Liiga-Runkosarja-2015-game-8018@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8018
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 18/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1391059$6360521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - Pelicans
+DTSTART;VALUE=DATE-TIME:20160226T163000Z
+UID:Liiga-Runkosarja-2015-game-8017@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8017
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 17/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/hifk-pelica
+ ns-lippuja/157131?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - KooKoo
+DTSTART;VALUE=DATE-TIME:20160227T150000Z
+UID:Liiga-Runkosarja-2015-game-8025@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8025
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 25/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tappara-koo
+ koo-lippuja/158383?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - SaiPa
+DTSTART;VALUE=DATE-TIME:20160227T150000Z
+UID:Liiga-Runkosarja-2015-game-8021@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8021
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 21/seuranta/\n\nOsta lippuja: http://www.lippu.fi/jyp-saipa-jyvaeskylae-Li
+ ppuja.html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=ticke
+ ts&key=1483153%246385775&jumpIn=yTix&kuid=492599&from=erdetaila
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - Kärpät
+DTSTART;VALUE=DATE-TIME:20160227T150000Z
+UID:Liiga-Runkosarja-2015-game-8023@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8023
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 23/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/lukko-karpa
+ t-lippuja/162231?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - Ilves
+DTSTART;VALUE=DATE-TIME:20160227T150000Z
+UID:Liiga-Runkosarja-2015-game-8022@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8022
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 22/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kalpa-ilves
+ -lippuja/155767?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - HPK
+DTSTART;VALUE=DATE-TIME:20160227T150000Z
+UID:Liiga-Runkosarja-2015-game-8026@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8026
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 26/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1500362$6586110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - TPS
+DTSTART;VALUE=DATE-TIME:20160227T150000Z
+UID:Liiga-Runkosarja-2015-game-8024@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8024
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 24/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/pelicans-tp
+ s-lippuja/159997?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - Ässät
+DTSTART;VALUE=DATE-TIME:20160301T163000Z
+UID:Liiga-Runkosarja-2015-game-8029@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8029
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 29/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1428504$6232063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - Lukko
+DTSTART;VALUE=DATE-TIME:20160301T163000Z
+UID:Liiga-Runkosarja-2015-game-8028@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8028
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 28/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kookoo-lukk
+ o-lippuja/158773?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - KalPa
+DTSTART;VALUE=DATE-TIME:20160301T163000Z
+UID:Liiga-Runkosarja-2015-game-8027@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8027
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 27/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/blues-kalpa
+ -lippuja/155343?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - KalPa
+DTSTART;VALUE=DATE-TIME:20160302T163000Z
+UID:Liiga-Runkosarja-2015-game-8032@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8032
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 32/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1391059$6360522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - Sport
+DTSTART;VALUE=DATE-TIME:20160302T163000Z
+UID:Liiga-Runkosarja-2015-game-8030@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8030
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 30/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/hifk-sport-
+ lippuja/157129?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - Tappara
+DTSTART;VALUE=DATE-TIME:20160302T163000Z
+UID:Liiga-Runkosarja-2015-game-8033@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8033
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 33/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/karpat-tapp
+ ara-lippuja/160315?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - JYP
+DTSTART;VALUE=DATE-TIME:20160302T163000Z
+UID:Liiga-Runkosarja-2015-game-8034@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8034
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 34/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/pelicans-jy
+ p-lippuja/159999?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - Blues
+DTSTART;VALUE=DATE-TIME:20160302T163000Z
+UID:Liiga-Runkosarja-2015-game-8031@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8031
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 31/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1418860$6359979
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - Lukko
+DTSTART;VALUE=DATE-TIME:20160303T163000Z
+UID:Liiga-Runkosarja-2015-game-8036@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8036
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 36/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1428504$6232064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KooKoo - Ässät
+DTSTART;VALUE=DATE-TIME:20160303T163000Z
+UID:Liiga-Runkosarja-2015-game-8035@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8035
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 35/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kookoo-assa
+ t-lippuja/158775?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - Pelicans
+DTSTART;VALUE=DATE-TIME:20160304T163000Z
+UID:Liiga-Runkosarja-2015-game-8039@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8039
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 39/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1391059$6360523
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - TPS
+DTSTART;VALUE=DATE-TIME:20160304T163000Z
+UID:Liiga-Runkosarja-2015-game-8040@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8040
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 40/seuranta/\n\nOsta lippuja: http://www.lippu.fi/jyp-tps-jyvaeskylae-Lipp
+ uja.html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=tickets
+ &key=1483153%246385777&jumpIn=yTix&kuid=492599&from=erdetaila
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - Tappara
+DTSTART;VALUE=DATE-TIME:20160304T163000Z
+UID:Liiga-Runkosarja-2015-game-8038@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8038
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 38/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1418860$6359980
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - Kärpät
+DTSTART;VALUE=DATE-TIME:20160304T163000Z
+UID:Liiga-Runkosarja-2015-game-8037@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8037
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 37/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/hifk-karpat
+ -lippuja/157127?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - Blues
+DTSTART;VALUE=DATE-TIME:20160305T150000Z
+UID:Liiga-Runkosarja-2015-game-8045@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8045
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 45/seuranta/\n\nOsta lippuja: http://www.lippu.fi/sport
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - Ilves
+DTSTART;VALUE=DATE-TIME:20160305T150000Z
+UID:Liiga-Runkosarja-2015-game-8047@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8047
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 47/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1500362$6586111
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - TPS
+DTSTART;VALUE=DATE-TIME:20160305T150000Z
+UID:Liiga-Runkosarja-2015-game-8042@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8042
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 42/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/karpat-tps-
+ lippuja/160317?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - KooKoo
+DTSTART;VALUE=DATE-TIME:20160305T150000Z
+UID:Liiga-Runkosarja-2015-game-8041@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8041
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 41/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kalpa-kooko
+ o-lippuja/155769?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - SaiPa
+DTSTART;VALUE=DATE-TIME:20160305T150000Z
+UID:Liiga-Runkosarja-2015-game-8046@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8046
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 46/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tappara-sai
+ pa-lippuja/158385?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - HIFK
+DTSTART;VALUE=DATE-TIME:20160305T150000Z
+UID:Liiga-Runkosarja-2015-game-8043@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8043
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 43/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/lukko-hifk-
+ lippuja/162233?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - HPK
+DTSTART;VALUE=DATE-TIME:20160305T150000Z
+UID:Liiga-Runkosarja-2015-game-8044@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8044
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 44/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/pelicans-hp
+ k-lippuja/160003?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues - SaiPa
+DTSTART;VALUE=DATE-TIME:20160307T163000Z
+UID:Liiga-Runkosarja-2015-game-8048@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8048
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 48/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/blues-saipa
+ -lippuja/155345?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tappara - KalPa
+DTSTART;VALUE=DATE-TIME:20160308T163000Z
+UID:Liiga-Runkosarja-2015-game-8053@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8053
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 53/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tappara-kal
+ pa-lippuja/158387?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPS - HPK
+DTSTART;VALUE=DATE-TIME:20160308T163000Z
+UID:Liiga-Runkosarja-2015-game-8054@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8054
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 54/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/tps-hpk-lip
+ puja/157661?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIFK - Ässät
+DTSTART;VALUE=DATE-TIME:20160308T163000Z
+UID:Liiga-Runkosarja-2015-game-8049@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8049
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 49/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/hifk-assat-
+ lippuja/157081?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sport - Ilves
+DTSTART;VALUE=DATE-TIME:20160308T163000Z
+UID:Liiga-Runkosarja-2015-game-8052@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8052
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 52/seuranta/\n\nOsta lippuja: http://www.lippu.fi/sport
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lukko - Pelicans
+DTSTART;VALUE=DATE-TIME:20160308T163000Z
+UID:Liiga-Runkosarja-2015-game-8051@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8051
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 51/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/lukko-pelic
+ ans-lippuja/162235?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kärpät - JYP
+DTSTART;VALUE=DATE-TIME:20160308T163000Z
+UID:Liiga-Runkosarja-2015-game-8050@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8050
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 50/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/karpat-jyp-
+ lippuja/160319?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KalPa - Lukko
+DTSTART;VALUE=DATE-TIME:20160310T163000Z
+UID:Liiga-Runkosarja-2015-game-8058@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8058
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 58/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/kalpa-lukko
+ -lippuja/155773?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilves - KooKoo
+DTSTART;VALUE=DATE-TIME:20160310T163000Z
+UID:Liiga-Runkosarja-2015-game-8056@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8056
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 56/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1391059$6360524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pelicans - Kärpät
+DTSTART;VALUE=DATE-TIME:20160310T163000Z
+UID:Liiga-Runkosarja-2015-game-8059@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8059
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 59/seuranta/\n\nOsta lippuja: http://www.lippupalvelu.fi/event/pelicans-ka
+ rpat-lippuja/160005?language=fi-fi&camefrom=EXT_LIIGA_FEED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SaiPa - HIFK
+DTSTART;VALUE=DATE-TIME:20160310T163000Z
+UID:Liiga-Runkosarja-2015-game-8060@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8060
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 60/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1428504$6232065
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ässät - TPS
+DTSTART;VALUE=DATE-TIME:20160310T163000Z
+UID:Liiga-Runkosarja-2015-game-8061@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8061
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 61/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1500362$6586112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JYP - Blues
+DTSTART;VALUE=DATE-TIME:20160310T163000Z
+UID:Liiga-Runkosarja-2015-game-8057@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8057
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 57/seuranta/\n\nOsta lippuja: http://www.lippu.fi/jyp-blues-jyvaeskylae-Li
+ ppuja.html?affiliate=ADV&doc=artistPages%2Ftickets&fun=artist&action=ticke
+ ts&key=1483153%246385776&jumpIn=yTix&kuid=492599&from=erdetaila
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPK - Sport
+DTSTART;VALUE=DATE-TIME:20160310T163000Z
+UID:Liiga-Runkosarja-2015-game-8055@liiga.fi
+DESCRIPTION:Kokoonpanot: http://liiga.fi/ottelut/2015-2016/runkosarja/8055
+ /kokoonpanot/\n\nSeuranta: http://liiga.fi/ottelut/2015-2016/runkosarja/80
+ 55/seuranta/\n\nOsta lippuja: http://www.lippu.fi/tickets.html?affiliate=A
+ IF&fun=evdetail&doc=evdetailb&key=1418860$6359981
+END:VEVENT
+END:VCALENDAR
