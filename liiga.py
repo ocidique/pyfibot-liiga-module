@@ -1,7 +1,7 @@
 from icalendar import Calendar
 from datetime import datetime
 
-def giev_liigai():
+def giev_liiga():
 
  announcement = "Liigageimit: "
  g = open('calendar.ics', 'rb')
