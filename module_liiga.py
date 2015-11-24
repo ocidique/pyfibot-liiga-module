@@ -21,7 +21,8 @@ def giev_liiga():
     g.close()
 
     if not gamesToday:
-        return "No hockey for you!"
+        noGames = "No hockey for you!"
+        return noGames
     else:
         separateGames = ', '.join(gamesToday)
         gamesToPrint = ''.join(separateGames)
