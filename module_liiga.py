@@ -1,3 +1,4 @@
+from __future__ import unicode_literals, print_function, division
 from icalendar import Calendar
 from datetime import datetime
 
@@ -28,3 +29,4 @@ def giev_liiga():
 
 def command_liiga(bot, user, channel, args):
  return bot.say(channel, giev_liiga())
+
