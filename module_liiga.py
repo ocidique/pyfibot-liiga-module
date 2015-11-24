@@ -11,12 +11,12 @@ def giev_liiga():
     
     for event in gcal.walk():
         if event.name == "VEVENT":
-        game = event.get('summary')
-        gameDate = event.get('dtstart').dt.date()
-        dateToday = datetime.now().date()
+            game = event.get('summary')
+            gameDate = event.get('dtstart').dt.date()
+            dateToday = datetime.now().date()
  
-        if gameDate == dateToday:
-            gamesToday.append(game)
+            if gameDate == dateToday:
+                gamesToday.append(game)
 
     g.close()
 
